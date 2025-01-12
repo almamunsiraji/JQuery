@@ -1,0 +1,13 @@
+/* .style1 {
+  color: red;
+  font-size: 5rem;
+  font-style: italic;
+} */
+.div-style {
+  background-color: lightcoral;
+  width: 550px;
+  height: 500px;
+  padding: 10px;
+  margin: auto;
+  text-align: center;
+}
